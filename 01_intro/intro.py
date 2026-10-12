@@ -1,0 +1,1 @@
+# Discussed about the python code structure and virtual environment
